@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Guilherme\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Guilherme\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
