@@ -1,6 +1,7 @@
 # AnotherComputationProofForATheoremICameUpWith
 
 Problem: For any problem in which x+y+z =  a given number t, how many non-negative integer solutions are there?
+
 Options:
 -Some random formula the prof put on the board
 -Brute Forcing(testing every possible pair where the values are less than t, choosing only the ones where the identity is fullfilled and then counting them).
