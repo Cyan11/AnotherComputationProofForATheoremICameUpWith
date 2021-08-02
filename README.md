@@ -20,3 +20,8 @@ Seeing that the extremes add up to the same, which in this case is 6, and the mi
 ∀t>0, if t%2=1 (if t is odd), the amount of possibilities is (t+2)*(t+1)/2, while if t is even than (t+2)/2 can be added once.
 
 By comparing the answwers computed with this formula to those bruteforced by a computer, they are always the same (up to 1522)
+
+
+
+
+--Note: Code compiles in https://replit.com/languages/csharp
