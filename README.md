@@ -24,4 +24,4 @@ By comparing the answwers computed with this formula to those bruteforced by a c
 
 
 
---Note for self: Code compiles in https://replit.com/languages/csharp.
+-Note for self: Code compiles in https://replit.com/languages/csharp.
